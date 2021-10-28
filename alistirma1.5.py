@@ -1,3 +1,4 @@
+# 4 basamaklı palindromik sayıları bulup ekrana yazdıran program
 sayı=range(1000,10000)
 for a in sayı:
     a=str(a)
