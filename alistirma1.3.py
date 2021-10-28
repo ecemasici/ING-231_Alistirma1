@@ -1,4 +1,4 @@
-
+# e sayısının yaklaşık değerini hesaplama
 sonsuz=100
 
 toplam=0
