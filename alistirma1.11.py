@@ -1,3 +1,4 @@
+#125,200,350 sayılarını böldüğümüzde aynı kalanı verdikleri en büyük sayıyı bulan program
 liste1=list()
 for sayı in range(1,351):
     if 125%sayı==200%sayı==350%sayı:
